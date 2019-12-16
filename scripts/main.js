@@ -15,9 +15,9 @@ myImage.onclick = function() {
 // 如果是，则将 src 的值改为第二张图片的路径，并在 <img> 内加载该图片。
 // 如果不是（意味着它已经修改过）, 则把 src 的值重新设置为原始图片的路径，即原始状态。
 
-let myButton = document.querySelector('button')
-let myHeading = document.querySelector('head')
-function setUsername (){
-    let myName = prompt('请输入你的名字')
-}
-setUsername()
+// let myButton = document.querySelector('button')
+// let myHeading = document.querySelector('head')
+// function setUsername (){
+//     let myName = prompt('请输入你的名字')
+// }
+// setUsername()
